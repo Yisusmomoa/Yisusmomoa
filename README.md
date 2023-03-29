@@ -5,6 +5,7 @@
 </p>
 
 [![Linkedin: brandon-loera-silva](https://img.shields.io/badge/brandon-loera-silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brandon-loera-silva/)](https://www.linkedin.com/in/brandon-loera-silva/)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
 
 [![GitHub Yisusmomoa](https://img.shields.io/github/followers/Yisusmomoa?label=follow&style=social)](https://github.com/Yisusmomoa)
 
