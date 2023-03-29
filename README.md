@@ -4,7 +4,7 @@
 <p><em>LMAD at <a href="https://www.fcfm.uanl.mx">FCFM</a> </em>
 </p>
 
-[![Linkedin: Brandon loera](https://img.shields.io/badge/brandon-loera-silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brandon-loera-silva/)](https://www.linkedin.com/in/brandon-loera-silva/)
+[![Linkedin: Brandon-loera-silva](https://img.shields.io/badge/brandon-loera-silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brandon-loera-silva/)](https://www.linkedin.com/in/brandon-loera-silva/)
 [![GitHub Yisusmomoa](https://img.shields.io/github/followers/Yisusmomoa?label=follow&style=social)](https://github.com/Yisusmomoa)
 
 ### A little more about me...  
