@@ -11,7 +11,7 @@
 
 ```javascript
 const Brandon = {
-  code: [Javascript, HTML, CSS, Java, React, Node, Express, .net, Android, kotlin],
+  code: [Javascript, HTML, CSS, Java, Typescript, React, Node, Express, .net, Android, kotlin],
   tools: [React, Redux, Node, Styled-Components, Figma, Sequelize, Android],
   architecture: ["MVC"]
 }
