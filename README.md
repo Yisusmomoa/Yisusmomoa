@@ -1,4 +1,4 @@
-<h2> Hi there 👋, I'm Brandon Loera!</h2>
+<h2> Brandon Loera!</h2>
 <img align='right' src="https://static.wixstatic.com/media/97b295_cb2efad59c0942928d7451e571dc582c~mv2.gif" width="230">
 <p><em>LMAD at <a href="https://www.fcfm.uanl.mx">FCFM</a> </em>
 </p>
